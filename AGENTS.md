@@ -19,7 +19,7 @@ After STOP 1, help the student propose and approve the six TARGET lines and one 
 
 ## My standing rule
 
-[One observable, student-approved rule that protects this project's purpose or experience.]
+Every generated daily lesson must name one learner-provided interest, class, or career goal and fit within the duration currently selected (30–90 minutes).
 
 ## Workflow
 
